@@ -2,7 +2,6 @@ import pyqrcode
 import png
 from pyqrcode import QRCode
 import cv2
-import webbrowser
 import datetime
 print("Hi-----------------------------------------------------------------------------------------------------------------")
 print("0)To generate a QR for New Student")
